@@ -212,31 +212,7 @@ Beginner-friendly Web3 education site — Web2 vs Web3, live crypto price dashbo
 
 </div>
 
-<!-- Optional: animated contribution snake — requires a GitHub Action, see setup note below -->
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
-<sub>⚙️ To enable the animated snake above, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `vap0611/vap0611` — it auto-generates that SVG on a schedule.</sub>
-
-<br/>
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
