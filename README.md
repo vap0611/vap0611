@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VIDHI%20PATEL&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20(in%20training)%20%7C%20Web3%20Explorer%20%7C%20Builder&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/vidhi-patel-05526524a">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+NLP+%7C+Deep+Learning;Web3+%2F+Blockchain+Explorer+(Beginner);9.5+CGPA+%7C+Open-Source+Contributor;Building+Recruiter+Vision+AI+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=B026FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+NLP+%7C+Deep+Learning;Web3+%2F+Blockchain+Explorer+(Beginner);9.5+CGPA+%7C+Open-Source+Contributor;Building+Recruiter+Vision+AI+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,7 +13,7 @@
 <!-- ============ RECRUITER TL;DR STRIP ============ -->
 <table align="center" width="100%">
 <tr>
-<td align="center" style="background:#0d0d0d;">
+<td align="center" style="background:#0d0d0d; border: 1px solid #B026FF; border-radius:16px; padding:20px;">
 
 ### ⚡ 10-Second Recruiter Summary
 **AI/ML Engineer in training** • **9.5 CGPA** Computer Engineering • Building end-to-end **NLP pipelines** (Python, Scikit-learn, Flask, Hugging Face) • Full-stack project experience (**Streamlit, SQLite, ReportLab**) • Beginner **Web3 / Blockchain** builder (Ethereum, Arbitrum L2) • Active **open-source contributor** (GirlScript SoC, Nexus SoC) • Currently a **Python Developer Intern** @ Webvanta Foundation • 🟢 **Open to AI/ML & Software Internships**
@@ -212,7 +212,14 @@ Beginner-friendly Web3 education site — Web2 vs Web3, live crypto price dashbo
 
 </div>
 
+<!-- Optional: animated contribution snake — requires a GitHub Action, see setup note below -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/vap0611/vap0611/output/github-contribution-grid-snake.svg" width="90%"/>
+</div>
 
+<sub>⚙️ To enable the animated snake above, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `vap0611/vap0611` — it auto-generates that SVG on a schedule.</sub>
+
+<br/>
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
