@@ -29,28 +29,59 @@
 
 <br/>
 
-<!-- ============ VIDHI-BOT TERMINAL ============ -->
+<!-- ============ VIDHI AI ASSISTANT CARD ============ -->
 <div align="center">
 
-### 🤖 VIDHI-BOT — Ask about my repos
+<table align="center" width="100%">
+<tr>
+<td align="center" style="background:#0d0d10; border-radius:16px; padding:28px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=760&height=140&lines=%3E+query%3A+which+repos+does+vap0611+explore%3F;%3E+vidhi-bot%3A+mostly+AI%2FML%2C+NLP+%26+resume-tech+repos+%E2%9A%A1;%3E+query%3A+any+Web3+interest%3F;%3E+vidhi-bot%3A+yes+-+Arbitrum%2C+Ethereum+L2+%26+smart+contract+basics+%F0%9F%94%97;%3E+query%3A+current+focus%3F;%3E+vidhi-bot%3A+shipping+Recruiter+Vision+AI+%2B+open-source+PRs+%F0%9F%9A%80" alt="vidhi-bot terminal" />
+<img src="https://img.shields.io/badge/AI%20ASSISTANT-ONLINE-39FF14?style=for-the-badge&labelColor=0d0d0d"/>
 
-> 💡 GitHub READMEs can't run live JavaScript, so this terminal *simulates* Vidhi-Bot's answers on a loop. For a **real interactive chatbot**, open an [issue](https://github.com/vap0611?tab=repositories) with your question, or connect on [LinkedIn](https://www.linkedin.com/in/vidhi-patel-05526524a) — I reply fast! 👇
+### 🤖 Meet Vidhi AI
 
-<details>
-<summary><b>💬 Click to expand — Vidhi-Bot FAQ</b></summary>
+**A repository-aware AI assistant that understands my GitHub projects, documentation, and technical work.**
+Launch the assistant to ask questions about my repositories, skills, projects, and development journey — in real time.
+
 <br/>
 
-| You ask | Vidhi-Bot answers |
-|---|---|
-| *What kind of repos do you star/explore?* | Mostly **AI/ML, NLP, and LLM tooling** repos, plus **Web3/Ethereum/Arbitrum** learning resources and **full-stack Python** projects. |
-| *What's your most active project?* | **Recruiter Vision AI** — an NLP-powered resume analysis platform (Hugging Face + Flask). |
-| *Are you into blockchain?* | Yes — as a **beginner**, currently exploring Ethereum, Layer 2 scaling, and Arbitrum through the **Arbitrum Builder Lab** and **Lampros DAO**. |
-| *Open to collabs?* | Always! Especially **AI/ML, NLP, and Web3-for-good** projects. |
-| *Best way to reach you?* | Email or LinkedIn (buttons above) — usually reply within a day. |
+<a href="https://your-chatbot-domain.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=95&width=520&text=🚀%20LAUNCH%20VIDHI%20AI&fontSize=27&fontColor=ffffff&animation=blink&fontAlignY=58" alt="Launch Vidhi AI"/>
+</a>
 
-</details>
+<sub>⚡ Click to open the assistant · powered by a custom AI layer over my repos</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ✨ What Vidhi AI Can Answer
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+- 📂 Explain any repository in plain language
+- 🧩 Summarize projects and their goals
+- 🏗️ Break down architectures & tech decisions
+- 🎯 Answer recruiter-style questions
+
+</td>
+<td width="50%" valign="top">
+
+- 🧭 Recommend which project to explore first
+- ⚙️ Explain the technologies used and why
+- 📈 Describe my learning journey so far
+- 🤝 Help contributors get oriented quickly
+
+</td>
+</tr>
+</table>
+
+<sub>🔧 <b>Coming soon:</b> Vidhi AI will be live-hosted at the button above. In the meantime, feel free to reach out directly via <a href="mailto:vidhialpeshpatel0611@gmail.com">email</a> or <a href="https://www.linkedin.com/in/vidhi-patel-05526524a">LinkedIn</a>.</sub>
+
 </div>
 
 <br/>
