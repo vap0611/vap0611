@@ -45,7 +45,7 @@ Launch the assistant to ask questions about my repositories, skills, projects, a
 
 <br/>
 
-<a href="https://your-chatbot-domain.vercel.app">
+<a href="https://vidhi-ai-chatbot.vercel.app/">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=95&width=520&text=🚀%20LAUNCH%20VIDHI%20AI&fontSize=27&fontColor=ffffff&animation=blink&fontAlignY=58" alt="Launch Vidhi AI"/>
 </a>
 
